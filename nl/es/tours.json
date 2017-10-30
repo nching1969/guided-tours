@@ -1,0 +1,38 @@
+[{
+  "id": "NewUserIntro1",
+  "tourCriteria": {
+    "urlRegex": ".*",
+    "userType": "new"
+  },
+  "tourTitle": "Bienvenido a IBM Cloud",
+  "tourPanels": [{
+    "image": "/api/content/docs/guided-tours/images/welcome1.png",
+    "title": "Bienvenido a Bluemix",
+    "body": "Bluemix es impresionante y te va a encantar ..."
+  }, {
+    "image": "/api/content/docs/guided-tours/images/knowthis1.png",
+    "title": "Bienvenido a Bluemix",
+    "body": "Bluemix es impresionante y te va a encantar ..."
+  }]
+}, {
+  "id": "ResourceGroups1",
+  "tourCriteria": {
+    "urlRegex": ".*",
+    "userType": "existing"
+  },
+  "tourPanels": [{
+    "image": "/api/content/docs/guided-tours/images/resgroups1.png",
+    "title": "Los cambios están llegando a Bluemix",
+    "body": "Los grupos de recursos están llegando a bluemix, lo que está cambiando x, y, z."
+  }, {
+    "image": "/api/content/docs/guided-tours/images/resgroups1.png",
+    "title": "Más alto, más rápido, mejor",
+    "body": "La nueva forma de hacer las cosas es genial..."
+  }, {
+    "image": "/api/content/docs/guided-tours/images/resgroups2.png",
+    "title": "Grupos de recursos",
+    "body": "Los grupos de recursos sólo son utilizados por COS y...",
+    "ctaText": "Más información",
+    "ctaURL": "/docs/resourcegroups.html"
+  }]
+}]
