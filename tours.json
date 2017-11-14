@@ -7,30 +7,18 @@
     },
     "tourPanels": [
       {
-        "image": "/docs/api/content/guided-tours/images/whatsnew/introducing_cloud_brand.gif",
-        "title": "What's new",
-        "body": "Bluemix is now IBM Cloud. In addition to our new name, we're excited to announce some big improvements that give you more control and flexibility. To keep up with ongoing updates, go to Support > What's new."
-      },
-      {
-        "image": "/docs/api/content/guided-tours/images/whatsnew/global_dashboard.gif",
+        "image": "/docs/api/content/guided-tours/images/whatsnew/resource-group_v3.gif",
         "title": "Introducing resource groups",
         "body": "You can use customizable groups to organize and secure your resources.",
         "ctaText": "Learn more.",
         "ctaURL": "/docs/admin/resourcegroups.html"
       },
       {
-        "image": "/docs/api/content/guided-tours/images/whatsnew/global_search.gif",
-        "title": "Find what you're looking for",
-        "body": "You can now search across all of your organizations, regions, and resource groups.",
-        "ctaText": "Learn more.",
-        "ctaURL": "/docs/overview/ui.html"
-      },
-      {
-        "image": "/docs/api/content/guided-tours/images/whatsnew/filters.gif",
+        "image": "/docs/api/content/guided-tours/images/whatsnew/Dashboard_v3.gif",
         "title": "See everything in one place",
         "body": "Want a global view of all your resources? Now, you can go to the dashboard and filter by what's important to you.",
         "ctaText": "Learn more.",
-        "ctaURL": "/docs/overview/ui.html"
+        "ctaURL": "/docs/overview/ui.html#dashboardview"
       }
     ]
   },
@@ -45,21 +33,21 @@
     },
     "tourPanels": [
       {
-        "image": "/docs/api/content/guided-tours/images/welcome1.png",
+        "image": "/docs/api/content/guided-tours/images/whatsnew/introducing_cloud_brand.gif",
         "title": "Welcome to IBM Cloud",
-        "body": "We're glad you're here! Now that your account is set up with a resource group, org, and space already created for you, you're ready to start working on your projects."
+        "body": "We're glad you're here! Now that your account is all set up with a resource group, org, and space already created for you, you're ready to start working on your projects."
       },
       {
-        "image": "/docs/api/content/guided-tours/images/welcome1.png",
+        "image": "/docs/api/content/guided-tours/images/whatsnew/navigation.gif",
         "title": "What do you want to build?",
         "body": "We provide a broad set of services you can use as building blocks to run your apps. Use the Menu icon to open the navigation and start exploring IBM Cloud."
       },
       {
-        "image": "/docs/api/content/guided-tours/images/whatsnew/all-resources-wide.png",
+        "image": "/docs/api/content/guided-tours/images/whatsnew/Dashboard_v3.gif",
         "title": "See everything in one place",
         "body": "Want a global view of all your resources? After you start building, you can go to the dashboard and filter by what's important to you.",
         "ctaText": "Learn more.",
-        "ctaURL": "/docs/overview/ui.html"
+        "ctaURL": "/docs/overview/ui.html#dashboardview"
       }
     ]
   }
