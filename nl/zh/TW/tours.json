@@ -1,0 +1,54 @@
+[
+  {
+    "id": "WhatsNewRGandSearch",
+    "tourCriteria": {
+      "urlRegex": ".*",
+      "newUser": "false"
+    },
+    "tourPanels": [
+      {
+        "image": "/docs/api/content/guided-tours/nl/zh/TW/images/whatsnew/resource-group_v3.png",
+        "title": "介紹資源群組",
+        "body": "您可以使用可自訂的群組來組織與保護您的資源。",
+        "ctaText": "進一步瞭解。",
+        "ctaURL": "/docs/admin/resourcegroups.html"
+      },
+      {
+        "image": "/docs/api/content/guided-tours/nl/zh/TW/images/whatsnew/Dashboard_v3.png",
+        "title": "在一個地方看到一切",
+        "body": "想要所有資源的廣域視圖？現在，您可以前往儀表板，並依對您而言重要的條件進行過濾。",
+        "ctaText": "進一步瞭解。",
+        "ctaURL": "/docs/overview/ui.html"
+      }
+    ]
+  },
+  {
+    "id": "NewUserIntro",
+    "tourCriteria": {
+      "urlRegex": ".*",
+      "newUser": "true",
+      "suppressTours": [
+        "WhatsNewRGandSearch"
+      ]
+    },
+    "tourPanels": [
+      {
+        "image": "/docs/api/content/guided-tours/nl/zh/TW/images/whatsnew/introducing_cloud_brand.gif",
+        "title": "歡迎使用 IBM Cloud",
+        "body": "很高興您能蒞臨！您的帳戶已設定好，並為您建立了資源群組、組織和空間，您可以開始處理您的專案。"
+      },
+      {
+        "image": "/docs/api/content/guided-tours/nl/zh/TW/images/whatsnew/navigation.gif",
+        "title": "您要建置什麼？",
+        "body": "我們提供了一組廣泛的服務，您可以用來作為執行應用程式的構成要素。請使用「功能表」圖示以開啟導覽，並開始探索 IBM Cloud。"
+      },
+      {
+        "image": "/docs/api/content/guided-tours/nl/zh/TW/images/whatsnew/Dashboard_v3.png",
+        "title": "在一個地方看到一切",
+        "body": "想要所有資源的廣域視圖？開始建置之後，您可以前往儀表板，並依對您而言重要的條件進行過濾。",
+        "ctaText": "進一步瞭解。",
+        "ctaURL": "/docs/overview/ui.html"
+      }
+    ]
+  }
+]

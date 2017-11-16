@@ -1,0 +1,54 @@
+[
+  {
+    "id": "WhatsNewRGandSearch",
+    "tourCriteria": {
+      "urlRegex": ".*",
+      "newUser": "false"
+    },
+    "tourPanels": [
+      {
+        "image": "/docs/api/content/guided-tours/nl/zh/CN/images/whatsnew/resource-group_v3.png",
+        "title": "资源组简介",
+        "body": "您可以使用可定制的组来组织和保护您的资源。",
+        "ctaText": "了解更多。",
+        "ctaURL": "/docs/admin/resourcegroups.html"
+      },
+      {
+        "image": "/docs/api/content/guided-tours/nl/zh/CN/images/whatsnew/Dashboard_v3.png",
+        "title": "在一个位置查看所有内容",
+        "body": "想要所有资源的全局视图？现在，您可以转至仪表板并按内容的重要性进行过滤。",
+        "ctaText": "了解更多。",
+        "ctaURL": "/docs/overview/ui.html"
+      }
+    ]
+  },
+  {
+    "id": "NewUserIntro",
+    "tourCriteria": {
+      "urlRegex": ".*",
+      "newUser": "true",
+      "suppressTours": [
+        "WhatsNewRGandSearch"
+      ]
+    },
+    "tourPanels": [
+      {
+        "image": "/docs/api/content/guided-tours/nl/zh/CN/images/whatsnew/introducing_ibm_cloud.gif",
+        "title": "欢迎使用 IBM Cloud",
+        "body": "欢迎您！既然您的帐户已经设置了为您创建的资源组、组织和空间，您就可以开始使用项目了。"
+      },
+      {
+        "image": "/docs/api/content/guided-tours/nl/zh/CN/images/whatsnew/navigation.gif",
+        "title": "想要构建什么？",
+        "body": "我们提供了一系列服务，可用做构建块来运行您的应用程序。使用“菜单”图标打开导航，开始探索 IBM Cloud。"
+      },
+      {
+        "image": "/docs/api/content/guided-tours/nl/zh/CN/images/whatsnew/Dashboard_v3.png",
+        "title": "在一个位置查看所有内容",
+        "body": "想要所有资源的全局视图？开始构建后，您可以转至仪表板并按内容的重要性进行过滤。",
+        "ctaText": "了解更多。",
+        "ctaURL": "/docs/overview/ui.html"
+      }
+    ]
+  }
+]

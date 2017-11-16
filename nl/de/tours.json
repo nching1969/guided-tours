@@ -1,0 +1,54 @@
+[
+  {
+    "id": "WhatsNewRGandSearch",
+    "tourCriteria": {
+      "urlRegex": ".*",
+      "newUser": "false"
+    },
+    "tourPanels": [
+      {
+        "image": "/docs/api/content/guided-tours/nl/de/images/whatsnew/resource-group_v3.png",
+        "title": "Einführung von Ressourcengruppen",
+        "body": "Mithilfe von anpassbaren Gruppen können Sie Ihre Ressourcen organisieren und schützen.",
+        "ctaText": "Weitere Informationen.",
+        "ctaURL": "/docs/admin/resourcegroups.html"
+      },
+      {
+        "image": "/docs/api/content/guided-tours/nl/de/images/whatsnew/Dashboard_v3.png",
+        "title": "Zentrale Übersicht",
+        "body": "Sie benötigen eine umfassende Übersicht über Ihre gesamten Ressourcen? Über das Dashboard können Sie diese anhand der für Sie relevanten Kriterien filtern.",
+        "ctaText": "Weitere Informationen.",
+        "ctaURL": "/docs/overview/ui.html"
+      }
+    ]
+  },
+  {
+    "id": "NewUserIntro",
+    "tourCriteria": {
+      "urlRegex": ".*",
+      "newUser": "true",
+      "suppressTours": [
+        "WhatsNewRGandSearch"
+      ]
+    },
+    "tourPanels": [
+      {
+        "image": "/docs/api/content/guided-tours/nl/de/images/whatsnew/introducing_cloud_brand.gif",
+        "title": "Willkommen bei IBM Cloud",
+        "body": "Schön, dass Sie hier sind! Ihr Konto ist eingerichtet; eine Ressourcengruppe, eine Organisation und ein Bereich sind bereits erstellt und Sie können sofort mit der Bearbeitung Ihrer Projekte beginnen."
+      },
+      {
+        "image": "/docs/api/content/guided-tours/nl/de/images/whatsnew/navigation.gif",
+        "title": "Was soll erstellt werden?",
+        "body": "Ihnen steht eine breite Palette von Services zur Verfügung, die Sie als Bausteine für die Ausführung Ihrer Apps nutzen können. Verwenden Sie das Menüsymbol, um die Navigation zu öffnen und mit der Erkundung von IBM Cloud zu beginnen."
+      },
+      {
+        "image": "/docs/api/content/guided-tours/nl/de/images/whatsnew/Dashboard_v3.png",
+        "title": "Zentrale Übersicht",
+        "body": "Sie benötigen eine umfassende Übersicht über Ihre gesamten Ressourcen? Nachdem Sie mit der Erstellung begonnen haben, können Sie über das Dashboard die Daten anhand der für Sie relevanten Kriterien filtern. ",
+        "ctaText": "Weitere Informationen.",
+        "ctaURL": "/docs/overview/ui.html"
+      }
+    ]
+  }
+]
