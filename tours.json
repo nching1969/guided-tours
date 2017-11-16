@@ -44,7 +44,7 @@
       },
       {
         "image": "/docs/api/content/guided-tours/images/whatsnew/Dashboard_v3.gif",
-        "title": "See everything in one place",
+        "title": "Customize your view",
         "body": "Want a global view of all your resources? After you start building, you can go to the dashboard and filter by what's important to you.",
         "ctaText": "Learn more.",
         "ctaURL": "/docs/overview/ui.html#dashboardview"
