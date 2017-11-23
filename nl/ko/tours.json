@@ -33,12 +33,12 @@
     },
     "tourPanels": [
       {
-        "image": "/docs/api/content/guided-tours/nl/ko/images/whatsnew/introducing_cloud_brand.gif?lang=ko",
+        "image": "/docs/api/content/guided-tours/images/whatsnew/introducing_cloud_brand.gif?lang=ko",
         "title": "IBM Cloud 시작",
         "body": "여러분을 환영합니다! 이미 여러분을 위해 구축해 놓은 리소스 그룹, 조직 및 영역을 통해 계정이 설정되어 있으며 이제 프로젝트에 대한 작업을 시작할 수 있습니다. "
       },
       {
-        "image": "/docs/api/content/guided-tours/nl/ko/images/whatsnew/navigation.gif?lang=ko",
+        "image": "/docs/api/content/guided-tours/images/whatsnew/navigation.gif?lang=ko",
         "title": "빌드하려는 것이 무엇입니까? ",
         "body": "IBM은 여러분이 앱을 실행하기 위해 블록을 빌드할 때 사용할 수 있는 다양한 서비스 세트를 제공합니다. 메뉴 아이콘을 사용하여 탐색을 열고 IBM Cloud에 대해 살펴보십시오. "
       },
