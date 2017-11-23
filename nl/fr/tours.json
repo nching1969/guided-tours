@@ -7,14 +7,14 @@
     },
     "tourPanels": [
       {
-        "image": "/docs/api/content/guided-tours/nl/fr/images/whatsnew/resource-group_v3.png",
+        "image": "/docs/api/content/guided-tours/images/whatsnew/resource-group_v3.png?lang=fr",
         "title": "Présentation des groupes de ressources",
         "body": "Vous pouvez utiliser des groupes personnalisables afin d'organiser et sécuriser vos ressources.",
         "ctaText": "En savoir plus.",
         "ctaURL": "/docs/admin/resourcegroups.html"
       },
       {
-        "image": "/docs/api/content/guided-tours/nl/fr/images/whatsnew/Dashboard_v3.png",
+        "image": "/docs/api/content/guided-tours/images/whatsnew/Dashboard_v3.png?lang=fr",
         "title": "Tout voir au même endroit",
         "body": "Vous souhaitez avoir une vue globale de toutes vos ressources ? Vous pouvez désormais accéder au tableau de bord et effectuer un filtrage pour afficher ce qui compte pour vous.",
         "ctaText": "En savoir plus.",
@@ -33,17 +33,17 @@
     },
     "tourPanels": [
       {
-        "image": "/docs/api/content/guided-tours/nl/fr/images/whatsnew/introducing_cloud_brand.gif",
+        "image": "/docs/api/content/guided-tours/images/whatsnew/introducing_cloud_brand.gif?lang=fr",
         "title": "Bienvenue dans IBM Cloud",
         "body": "Maintenant que votre compte est configuré avec un groupe de ressources, une organisation et un espace qui ont été créés pour vous, vous êtes fin prêt pour commencer à travailler sur vos projets."
       },
       {
-        "image": "/docs/api/content/guided-tours/nl/fr/images/whatsnew/navigation.gif",
+        "image": "/docs/api/content/guided-tours/images/whatsnew/navigation.gif?lang=fr",
         "title": "Que souhaitez-vous construire ?",
         "body": "Nous proposons un grand éventail de services que vous pouvez utiliser lors de la construction de blocs pour exécuter vos applications. Utilisez l'icône Menu pour ouvrir la navigation et commencer à explorer IBM Cloud."
       },
       {
-        "image": "/docs/api/content/guided-tours/nl/fr/images/whatsnew/Dashboard_v3.png",
+        "image": "/docs/api/content/guided-tours/images/whatsnew/Dashboard_v3.png?lang=fr",
         "title": "Tout voir au même endroit",
         "body": "Vous souhaitez avoir une vue globale de toutes vos ressources ? Après avoir commencé à construire, vous pouvez désormais accéder au tableau de bord et effectuer un filtrage pour afficher ce qui compte pour vous. ",
         "ctaText": "En savoir plus.",
